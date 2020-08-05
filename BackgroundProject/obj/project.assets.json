@@ -6682,11 +6682,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\terry&spike\\source\\repos\\BackgroundProject\\BackgroundProject\\BackgroundProject.csproj",
+      "projectUniqueName": "C:\\Users\\terry&spike\\Documents\\GitHub\\BackgroundFile\\BackgroundProject\\BackgroundProject.csproj",
       "projectName": "BackgroundProject",
-      "projectPath": "C:\\Users\\terry&spike\\source\\repos\\BackgroundProject\\BackgroundProject\\BackgroundProject.csproj",
+      "projectPath": "C:\\Users\\terry&spike\\Documents\\GitHub\\BackgroundFile\\BackgroundProject\\BackgroundProject.csproj",
       "packagesPath": "C:\\Users\\terry&spike\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\terry&spike\\source\\repos\\BackgroundProject\\BackgroundProject\\obj\\",
+      "outputPath": "C:\\Users\\terry&spike\\Documents\\GitHub\\BackgroundFile\\BackgroundProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\terry&spike\\AppData\\Roaming\\NuGet\\NuGet.Config",

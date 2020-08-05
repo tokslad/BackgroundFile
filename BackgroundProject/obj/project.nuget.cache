@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Sp2q0F9tlWmDJbhfmpK+VX5qgcgTsgwkZ3BLJ+9gYVPt9uQGsHvT60L1KouFuO5dl7sg9BCZVzSqLXPNvm/aVQ==",
+  "dgSpecHash": "OR0/JBnnOiMMEJeS8Vp5yvcam3sjKuIq1sdzRhNFQZeN8DBCbAr7/ldbH1Hk7KaXuJGhlCU4XPsyUCyri8VBYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\terry&spike\\source\\repos\\BackgroundProject\\BackgroundProject\\BackgroundProject.csproj",
+  "projectFilePath": "C:\\Users\\terry&spike\\Documents\\GitHub\\BackgroundFile\\BackgroundProject\\BackgroundProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\terry&spike\\.nuget\\packages\\bodi\\1.4.1\\bodi.1.4.1.nupkg.sha512",
     "C:\\Users\\terry&spike\\.nuget\\packages\\cucumber.messages\\6.0.1\\cucumber.messages.6.0.1.nupkg.sha512",
